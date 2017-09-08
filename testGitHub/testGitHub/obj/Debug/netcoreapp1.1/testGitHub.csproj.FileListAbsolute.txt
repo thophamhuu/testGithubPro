@@ -1,0 +1,10 @@
+E:\testGithubPro\testGitHub\testGitHub\bin\Debug\netcoreapp1.1\testGitHub.deps.json
+E:\testGithubPro\testGitHub\testGitHub\bin\Debug\netcoreapp1.1\testGitHub.runtimeconfig.json
+E:\testGithubPro\testGitHub\testGitHub\bin\Debug\netcoreapp1.1\testGitHub.runtimeconfig.dev.json
+E:\testGithubPro\testGitHub\testGitHub\bin\Debug\netcoreapp1.1\testGitHub.dll
+E:\testGithubPro\testGitHub\testGitHub\bin\Debug\netcoreapp1.1\testGitHub.pdb
+E:\testGithubPro\testGitHub\testGitHub\obj\Debug\netcoreapp1.1\testGitHub.csprojResolveAssemblyReference.cache
+E:\testGithubPro\testGitHub\testGitHub\obj\Debug\netcoreapp1.1\testGitHub.csproj.CoreCompileInputs.cache
+E:\testGithubPro\testGitHub\testGitHub\obj\Debug\netcoreapp1.1\testGitHub.AssemblyInfo.cs
+E:\testGithubPro\testGitHub\testGitHub\obj\Debug\netcoreapp1.1\testGitHub.dll
+E:\testGithubPro\testGitHub\testGitHub\obj\Debug\netcoreapp1.1\testGitHub.pdb
